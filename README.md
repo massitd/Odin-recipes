@@ -1,2 +1,2 @@
 # Odin-recipes
-Use this space to write an introduction of what the project is and what skills I learned, once I finish it. 
+This is my first project from The Odin Project. I created a simple recipe website page, practicing embedded images, lists and links.
